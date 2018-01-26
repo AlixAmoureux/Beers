@@ -10,10 +10,9 @@ What I use :
 Tutorial : 
 1) Import the project in STS
 2) Download dependencies
-3)
-  a) Create database in MySql named "beers" 
-  b) Set url to 127.0.0.1 and the port to 3306
-  c) Launch it
+3) * Create database in MySql named "beers" 
+   * Set url to 127.0.0.1 and the port to 3306
+   * Launch the database
 4) Launch the server
 
 
