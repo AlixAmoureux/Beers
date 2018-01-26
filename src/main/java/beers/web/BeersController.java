@@ -23,7 +23,6 @@ public class BeersController {
 		List<Beer> beers = new ArrayList<Beer>();
 		logger.info("Begin " + new Object() {
 		}.getClass().getEnclosingMethod().getName() + " method");
-		// List<String> beers = new ArrayList<>();
 		Beer beer1 = new Beer("Triple Karmeliet", "Belgique", (float) 8.4);
 		Beer beer2 = new Beer("Delirium", "Belgique", (float) 8.5);
 		Beer beer3 = new Beer("Rince Cochon", "Belgique", (float) 8.5);

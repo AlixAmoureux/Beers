@@ -1,0 +1,19 @@
+server:
+  contextPath: null
+  port: 4242
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
+  profiles:
+    active: developpement
+  jpa:
+    database: MYSQL
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://127.0.0.1:3306/beers?useSSL=false
+    username: root
+    password: root

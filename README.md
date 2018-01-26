@@ -6,6 +6,7 @@ What I use :
   - Spring Tool Suite
   - MySql
   - Hibernate
+  - JDK 8
 
 Tutorial : 
 1) Import the project in STS
