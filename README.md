@@ -1,6 +1,6 @@
 # Spring-Boot
 
-Small project showing greats beers that I know using Spring Boot and Hibernate
+Small project showing great beers that I know using Spring Boot and Hibernate
 
 What I use : 
   - Spring Tool Suite
@@ -10,7 +10,7 @@ What I use :
 
 Tutorial : 
 1) Import the project in STS
-2) Download dependencies
+2) Download dependencies (npm i)
 3) * Create database in MySql named "beers" 
    * Set url to 127.0.0.1 and the port to 3306
    * Launch the database
