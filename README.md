@@ -2,21 +2,21 @@
 
 Small project showing great beers that I know using Spring Boot and Hibernate
 
+Url : http://localhost:4242/beers
+
+Description : this request shows all beers that are hard coded
+
 What I use : 
-  - Spring Tool Suite
-  - MySql
-  - Hibernate
-  - JDK 8
+  - Visual Studio Code
+  - JDK 15
+  - Java 14
 
 Tutorial : 
-1) Import the project in STS
-2) Download dependencies (npm i)
-3) * Create database in MySql named "beers" 
-   * Set url to 127.0.0.1 and the port to 3306
-   * Launch the database
-4) Launch the server
-
-
-
-Url : http://localhost:4242/beers
-Description : this request shows all beers saved in database
+1) Import the project in Visual Studio Code
+2) Download dependencies (npm install)
+3) Launch the server (or Insomnia / Postman / ...)
+4) In a web browser, try :
+  - http://localhost:4242/beers
+  - http://localhost:4242/beers?type=ale
+  - http://localhost:4242/beers?type=lager
+  - http://localhost:4242/beers?type=ale&subtype=trappist
