@@ -14,7 +14,7 @@ What I use :
 Tutorial : 
 1) Import the project in Visual Studio Code
 2) Download dependencies (npm install)
-3) Launch the server (or Insomnia / Postman / ...)
+3) Launch the server
 4) In a web browser, try :
   - http://localhost:4242/beers
   - http://localhost:4242/beers?type=ale
