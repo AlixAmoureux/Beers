@@ -1,18 +1,18 @@
 # Spring-Boot
 
-Small project showing great beers that I know using Spring Boot and Hibernate
+Webservice showing beers that I know using Spring Boot framework (java)
 
 Url : http://localhost:4242/beers
 
 Description : this request shows all beers that are hard coded
 
-What I use : 
+What I used : 
   - Visual Studio Code
   - JDK 15
   - Java 14
 
 Tutorial : 
-1) Import the project in Visual Studio Code
+1) Import the project in your code editor
 2) Download dependencies (npm install)
 3) Launch the server
 4) In a web browser, try :
